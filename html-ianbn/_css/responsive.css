@@ -1,0 +1,142 @@
+
+
+/* @ MEDIA
+-----------------------------------------------*/
+@media only screen and (min-width: 768px) {
+	.show-m {
+		display: none;
+	}
+
+}
+
+@media only screen and (min-width: 992px) {
+
+}
+
+@media only screen and (max-width: 1399px) and (min-width: 992px) {
+	
+}
+
+@media only screen and (max-width: 1199px) and (min-width: 992px) {
+	
+}
+
+@media only screen and (max-width: 991px) {
+	.hide-md {
+		display: none;
+	}
+
+
+	.header-brand {
+		background-color: #1d1c1a;
+	    width: 100%;
+	    flex-grow: 1;
+	    text-align: center;
+	    justify-content: center;
+	}
+	.navbar-brand {
+		display: flex;
+	    flex-wrap: wrap;
+	    justify-content: center;
+	    color: #fff;
+	    min-height: 43px;
+	}
+
+	.navbar-watch {
+		min-height: 79px;
+    	padding: 31px 10px 0;
+	}
+
+
+	.navbar-watch .link-watch {
+		font-size: 30px;
+	}
+}
+
+@media only screen and (max-width: 991px) and (min-width: 768px) {
+	
+}
+
+@media only screen and (max-width: 767px) {
+	body {
+		
+	}
+
+	h1, h2, h3, h4, h5, h6 {
+		word-break: break-word;
+	}
+	h1 {
+		
+	}
+
+	h2 {
+				
+	}
+
+	h3 {
+		
+	}
+	h4 {
+		
+	}
+	h5 {
+
+	}
+
+	a.btn {
+	
+	}
+
+	.title-line {
+		
+	}
+
+	.page-header {
+		
+	}
+	.page-header h1 {
+		
+	}
+
+	.breadcrumb {
+		
+	}
+
+	p {
+
+	}
+	
+	.navbar-header {
+		
+	}
+	.navbar-brand {
+		
+	}
+
+	
+	.container-fluid>.navbar-header {
+		
+	}
+	
+	.content {
+
+	}
+
+	
+	.block {
+		
+	}
+
+	
+	.footer {
+		
+	}
+
+}
+@media only screen and (max-width: 767px) and (min-width: 480px) {
+	
+}
+
+@media only screen and (max-width: 479px) {
+	
+}

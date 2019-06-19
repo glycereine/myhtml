@@ -1,0 +1,48 @@
+@font-face {
+    font-family: 'Knockout';
+    src: url('Knockout-HTF47-Bantamweight.ttf') format('truetype');
+    font-weight: 500;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'Metropolis';
+    src: url('Metropolis-Medium.ttf') format('truetype');
+    font-weight: 500;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'Metropolis';
+    src: url('Metropolis-Bold.ttf') format('truetype');
+    font-weight: bold;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'Metropolis Semi';
+    src: url('Metropolis-SemiBold.ttf') format('truetype');
+    font-weight: 600;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'Adobe Caslon Pro';
+    src: url('ACaslonPro-BoldItalic.ttf') format('truetype');
+    font-weight: bold;
+    font-style: italic;
+}
+
+@font-face {
+    font-family: 'Metropolis';
+    src: url('Metropolis-Light.ttf') format('truetype');
+    font-weight: 300;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'Metropolis Extra';
+    src: url('Metropolis-ExtraBold.ttf') format('truetype');
+    font-weight: 800;
+    font-style: normal;
+}
